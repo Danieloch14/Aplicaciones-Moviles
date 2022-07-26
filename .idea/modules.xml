@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Aplicaciones-Moviles.iml" filepath="$PROJECT_DIR$/.idea/Aplicaciones-Moviles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircularView.iml" filepath="$PROJECT_DIR$/.idea/modules/CircularView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CircularView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CircularView.app.iml" />
     </modules>
   </component>
 </project>
